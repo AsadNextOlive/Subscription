@@ -1,0 +1,38 @@
+﻿@model Planner1.Models.OscarSignIn
+
+@{
+    ViewData["Title"] = "OscarSignIn";
+}
+
+<h1>Sign into Subscription</h1>
+
+<form asp-controller="Oscar" asp-action="OscarSignIn" method="post">
+
+    <div class="container">
+        <table class="table table-light table-borderless">
+            <tr class="row">
+                <td class="col">Username (Email)</td>
+                <td class="col">:</td>
+                <td class="col">
+                    <input type="email" asp-for="Email" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </td>
+            </tr>
+            <tr class="row">
+                <td class="col">Password</td>
+                <td class="col">:</td>
+                <td class="col">
+                    <input type="password" asp-for="Password" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </td>
+            </tr>
+            <tr class="row">
+                <td class="col"></td>
+                <td class="col"></td>
+                <td class="col"><button type="submit" class="btn btn-outline-primary">SignIn</button></td>
+            </tr>
+        </table>
+
+</form>
+
+</div>

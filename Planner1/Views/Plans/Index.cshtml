@@ -1,0 +1,38 @@
+﻿@model List<Planner1.Models.Plans>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>List of Plans</h1>
+<div class="col-3"><a asp-controller="Plans" asp-action="SignOut" class="btn btn-outline-danger">Sign out</a></div>
+<table class="table table-secondary table-striped">
+    <thead>
+        <tr>
+            <td class="fw-bold text-uppercase">ID</td>
+            <td class="fw-bold text-uppercase">Plan Name</td>
+            <td class="fw-bold text-uppercase">Price</td>
+            <td class="fw-bold text-uppercase">Duration (In Months)</td>
+            <td class="fw-bold text-uppercase">Purchase Plan</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.PlanName</td>
+                <td>@item.Price</td>
+                <td>@item.Duration</td>
+                <td>
+                    <form asp-controller="Plans" asp-action="BuyNow" method="post">
+                        <input type="hidden" name="planName" value="@item.PlanName" />
+                        <input type="hidden" name="price" value="@item.Price" />
+                        <input type="hidden" name="duration" value="@item.Duration" />
+                        <button type="submit" class="btn btn-primary">Buy Now</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

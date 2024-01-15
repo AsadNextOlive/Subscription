@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Planner1
+build_property.RootNamespace = Planner1
+build_property.ProjectDir = C:\Users\Aftab\Downloads\Project\Database Backup\Projects\Planner1\Planner1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Aftab\Downloads\Project\Database Backup\Projects\Planner1\Planner1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Aftab/Downloads/Project/Database Backup/Projects/Planner1/Planner1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aftab/Downloads/Project/Database Backup/Projects/Planner1/Planner1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aftab/Downloads/Project/Database Backup/Projects/Planner1/Planner1/Views/Oscar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3NjYXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aftab/Downloads/Project/Database Backup/Projects/Planner1/Planner1/Views/Oscar/OscarSignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3NjYXJcT3NjYXJTaWduSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aftab/Downloads/Project/Database Backup/Projects/Planner1/Planner1/Views/Oscar/SubscriptionExpired.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3NjYXJcU3Vic2NyaXB0aW9uRXhwaXJlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aftab/Downloads/Project/Database Backup/Projects/Planner1/Planner1/Views/Plans/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aftab/Downloads/Project/Database Backup/Projects/Planner1/Planner1/Views/Plans/PlansSignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnNcUGxhbnNTaWduSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aftab/Downloads/Project/Database Backup/Projects/Planner1/Planner1/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aftab/Downloads/Project/Database Backup/Projects/Planner1/Planner1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aftab/Downloads/Project/Database Backup/Projects/Planner1/Planner1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aftab/Downloads/Project/Database Backup/Projects/Planner1/Planner1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aftab/Downloads/Project/Database Backup/Projects/Planner1/Planner1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aftab/Downloads/Project/Database Backup/Projects/Planner1/Planner1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nw35vqelx5
